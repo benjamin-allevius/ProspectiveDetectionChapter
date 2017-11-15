@@ -1,9 +1,9 @@
 Code for the chapter "Prospective Detection of Outbreaks"
 ================
 
-This respository contains code to reproduce the examples of the chapter "Prospective Detection of Outbreaks" in the *Handbook of Infectious Disease Epidemiology* (Held et al. (Eds.), 2018).
+This respository contains code to reproduce the examples of the chapter "Prospective Detection of Outbreaks" by Benjamin Allévius and Michael Höhle, which will feature in the book *Handbook of Infectious Disease Epidemiology* (CRC Press), edited by Leonhard Held, Niel Hens, Phil O’Neill and Jacco Wallinga.
 
 References
 ==========
 
-Held, L., Hens, N., O’Neill, P.D. and Wallinga, J., editors (2018). *Handbook of Infectious Disease Epidemiology*. CRC Press.
+Allévius, B. and Höhle, M. (2018). Prospective Detection of Outbreaks. In Held, L., Hens, N., O’Neill, P.D. and Wallinga, J., editors, *Handbook of Infectious Disease Epidemiology*, chapter \[TBD\]. CRC Press.
