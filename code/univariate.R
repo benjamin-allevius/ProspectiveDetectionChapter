@@ -1,7 +1,7 @@
 ######################################################################
 ## R code generating graphs and numbers of the first two sections of
 ## the book chapter "Prospective Detection of Outbreaks" by
-## B. Allévius and M. Höhle in the Handbook of Spatial Epidemiology.
+## B. Allévius and M. Höhle in the Handbook of Infectious Disease Data Analysis.
 ##
 ## Author: Michael Höhle <http://www.math.su.se/~hoehle>
 ## Affiliation: Department of Mathematics, Stockholm University, Sweden

@@ -1,8 +1,8 @@
 ######################################################################
 ## R code generating graphs and numbers for the multivariate and scan
 ## statistics sections of the book chapter "Prospective Detection of
-## Outbreaks" by B. Allévius and M. Höhle in the Handbook of Spatial
-## Epidemiology.
+## Outbreaks" by B. Allévius and M. Höhle in the Handbook of
+## Infectious Disease Data Analysis.
 ##
 ## Author: Benjamin Allévius <http://www.su.se/english/profiles/bekj9674-1.194276>
 ## Affiliation: Department of Mathematics, Stockholm University, Sweden

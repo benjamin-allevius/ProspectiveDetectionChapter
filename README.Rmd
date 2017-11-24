@@ -5,9 +5,9 @@ output: github_document
 
 This respository contains code to reproduce the examples of the chapter 
 "Prospective Detection of Outbreaks" by Benjamin Allévius and Michael Höhle,
-which will feature in the book _Handbook of Infectious Disease Epidemiology_ 
-(Chapman & Hall/CRC), edited by Leonhard Held, Niel Hens, Phil O’Neill and Jacco 
-Wallinga.
+which will feature in the book _Handbook of Infectious Disease Data Analysis_ 
+(Chapman & Hall/CRC), edited by Leonhard Held, Niel Hens, Philip D. O’Neill and 
+Jacco Wallinga.
 
 # References
 
